@@ -1,4 +1,5 @@
 ![status](https://github.com/rbunpat/CV-JS/blob/main/status-broken-lol.svg)
+![MADEWITH](https://forthebadge.com/images/badges/made-with-javascript.svg)
 # CV-JS
 A Javascript discord bot built with discord.js.
 # Features
