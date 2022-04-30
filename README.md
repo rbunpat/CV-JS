@@ -13,8 +13,9 @@ A Javascript discord bot built with discord.js.
 - [x] Tells you server info
 - [x] Tells you the api url
 # Usage
-Add commands in /commands.
-Run deploy-commands.js when adding new commands.
+Put your token and stuff in the config.json file.\
+Add commands in /commands.\
+Run deploy-commands.js when adding new commands.\
 Run index.js to startup bot.
 # Note
 This discord bot will be mostly useless to you, trust me.
